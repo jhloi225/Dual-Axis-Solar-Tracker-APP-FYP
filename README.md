@@ -47,6 +47,7 @@ The system significantly increases energy efficiency compared to static panels a
 * Solar Panel mechanism with 2 Servo Motors (Horizontal & Vertical).
 * 4 LDR Sensors for light detection.
 * Microcontroller (ESP32 recommended) with Wi-Fi capability.
+<img width="1630" height="1110" alt="image_2025-12-21_15-19-35" src="https://github.com/user-attachments/assets/7da0f743-a3f2-4cf9-a8fb-ec2edf9f9245" />
 
 ---
-*Developed by [Your Name]*
+*Developed by jhloi225*
